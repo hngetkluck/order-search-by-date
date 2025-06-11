@@ -1,3 +1,5 @@
+// POR-T1: Playwright configuration for Orders Filter automation test
+
 const { defineConfig } = require('@playwright/test');
 
 module.exports = defineConfig({
